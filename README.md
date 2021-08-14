@@ -2,4 +2,4 @@
 
 Theses are the screenshot of the images 
 
-Open Images.pdf file contains all the screenshot.
+Open "Images.pdf" file which contains all the screenshot in 1 file.
