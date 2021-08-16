@@ -1,5 +1,5 @@
 # Encryption and decryption of data on Images
 
-Theses are the screenshot of the images 
+Screenshot Combined is a png file which contain all the screenshot of the app.
 
-Open "Images.pdf" file which contains all the screenshot in 1 file.
+"Secret.apk" This is Android apk file, whic you can install on your mobile.
